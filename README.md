@@ -7,6 +7,11 @@
 ```sh
 npm install
 ```
+OR
+
+```sh
+yarn  install
+```
 
 ### Compile and Hot-Reload for Development
 
@@ -14,8 +19,19 @@ npm install
 npm run dev
 ```
 
+OR
+
+```sh
+yarn dev 
+```
+
 ### Compile and Minify for Production
 
 ```sh
 npm run build
+```
+OR 
+
+```sh
+yarn  build
 ```

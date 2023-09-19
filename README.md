@@ -1,4 +1,4 @@
-# my-portfolio
+# nuxt-portfolio-template
 
 
 
